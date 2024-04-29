@@ -3,7 +3,7 @@
 <h3 align="center">I am a Front / Back end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/0d/ba/8f/0dba8fc91cc972fac26d70a46c01376f.jpg">
 
-- 👨‍💻 I’m currently working on sites and projects
+- 👨‍💻 I’m currently working on VisualTouch
 
 - 📓 I’m currently learning **CheatEngine, Python, CSS, HTML, Lua**
 
