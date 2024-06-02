@@ -7,7 +7,7 @@
 
 - 📓 I’m currently learning **CheatEngine, Python, CSS, HTML, Lua**
 
-- 👨‍💻 All of my projects are available at [site](thefilin00.temp.swtest.ru)
+- 👨‍💻 All of my projects are available at [site](https://wa1alex.github.io/VisualTouch.Idex/)
 
 - 📫 How to reach me **rea11uvvu@gmail.com**
   
