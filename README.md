@@ -5,11 +5,13 @@
 
 - 👨‍💻 I’m currently working on VisualTouch
 
-- 📓 I’m currently learning **CheatEngine, Python, CSS, HTML, Lua**
+- 📓 I’m currently learning **CheatEngine, Python, CSS, HTML, Lua, JS**
 
 - 👨‍💻 All of my projects are available at [site](https://wa1alex.github.io/VisualTouch.Idex/)
 
-- 📫 How to reach me **rea11uvvu@gmail.com**
+- 📫 Discord:
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/964433183401713714?idleMessage=「✦Rivi?🥺👉👈✦」)](https://discord.com/users/964433183401713714)
   
 - 🗣️ Languages **EN / RU**
 <h3 align="left">Connect with me:</h3>
