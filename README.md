@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [site](https://wa1alex.github.io/VisualTouch.Idex/)
 
 - 📫 Discord:
+-
   [![Discord Presence](https://lanyard.cnrad.dev/api/964433183401713714?idleMessage=「✦Rivi?🥺👉👈✦」)](https://discord.com/users/964433183401713714)
   
 - 🗣️ Languages **EN / RU**
