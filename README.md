@@ -3,11 +3,11 @@
 <h3 align="center">I am a Front / Back end developer</h3>
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/564x/0d/ba/8f/0dba8fc91cc972fac26d70a46c01376f.jpg">
 
-- 👨‍💻 I’m currently working on VisualTouch
+- 👨‍💻 I’m currently working on AI
 
-- 📓 I’m currently learning **CheatEngine, Python, CSS, HTML, Lua, JS**
+- 📓 I’m currently learning **Python, Lua, JS, React**
 
-- 👨‍💻 All of my projects are available at [site](https://wa1alex.github.io/VisualTouch.Idex/)
+- 👨‍💻 All of my projects are available at [site](https://rea11u.github.io/Rivi.io/)
 
 - 📫 Discord:
 -
